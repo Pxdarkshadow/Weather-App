@@ -6,7 +6,8 @@ A minimalist weather application built using **HTML**, **CSS**, and **JavaScript
 
 ## 📸 Preview
 
-![Weather App Screenshot]<img width="959" alt="image" src="https://github.com/user-attachments/assets/d622d86d-f663-4ee2-8792-75250a45bd0a" />
+![Weather App Screenshot]![Screenshot 2025-05-30 124824](https://github.com/user-attachments/assets/db4ec892-8a40-4434-b6f7-d77dc70e5296)
+
 
 
 ---
